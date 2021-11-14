@@ -1,0 +1,1 @@
+cp -r jake.xctemplate ~/Library/Developer/Xcode/Templates/File\ Templates/
