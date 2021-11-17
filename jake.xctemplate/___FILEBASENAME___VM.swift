@@ -2,16 +2,16 @@
 
 import Foundation
 
-protocol ___FILEBASENAMEASIDENTIFIER___VMInput {
+protocol ___VARIABLE_productName:identifier___VMInput {
     
 }
 
-protocol ___FILEBASENAMEASIDENTIFIER___VMOutput {
+protocol ___VARIABLE_productName:identifier___VMOutput {
     
 }
 
-protocol ___FILEBASENAMEASIDENTIFIER___VM: ___FILEBASENAMEASIDENTIFIER___VMInput, ___FILEBASENAMEASIDENTIFIER___VMOutput {}
+protocol ___VARIABLE_productName:identifier___VM: ___VARIABLE_productName:identifier___VMInput, ___VARIABLE_productName:identifier___VMOutput {}
 
-class ___FILEBASENAMEASIDENTIFIER___Impl: ___FILEBASENAMEASIDENTIFIER___VM {
+class ___VARIABLE_productName:identifier___VMImpl: ___VARIABLE_productName:identifier___VM {
 
 }
